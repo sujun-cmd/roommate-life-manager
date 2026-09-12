@@ -33,4 +33,4 @@ npm run preview
 - Build command: `npm run build`
 - Output directory: `dist`
 
-生产地址保持为 https://roommate-life-manager-mu.vercel.app 。若现有项目仍使用空仓库时期的设置，请在该项目核对上述配置并重新部署。
+生产地址为 https://roommate-life-manager-mu.vercel.app
